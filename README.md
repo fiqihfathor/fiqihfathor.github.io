@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fiqih Fathor Rachim
+# Data Scientist
 
 ## About Me
 I am a data scientist with a passion for turning data into actionable insights. I have experience in machine learning, data analysis, and data visualization.
