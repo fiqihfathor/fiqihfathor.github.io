@@ -17,4 +17,4 @@ I am a data scientist with a passion for turning data into actionable insights. 
 - Developed financial dashboards to provide key insights and improve decision-making processes.
 
 ## Get in Touch
-- [LinkedIn](www.linkedin.com/in/fiqih-fathor-rachim)
+- [LinkedIn](https://www.linkedin.com/in/fiqih-fathor-rachim)
